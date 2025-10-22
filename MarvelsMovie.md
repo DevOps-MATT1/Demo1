@@ -19,6 +19,16 @@
 | Guardians of the Galaxy | (August 1, 2014) |
 | Avengers: Age of Ultron | (May 1, 2015) |
 | Ant-Man | (July 17, 2015) |
+
+---
+### Phase - 3 (part 1)  Marvel Movies
+| Movie | Release Date |
+|-------|-------------|
+| Captain America: Civil War |  (May 6, 2016) |
+| Doctor Strange | (November 4, 2016) |
+| Guardians of the Galaxy Vol. 2 | (May 5, 2017)|
+| Spider-Man: Homecoming |  (July 7, 2017) |
+| Thor: Ragnarok |  (November 3, 2017) |
     
 
 
